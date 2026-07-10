@@ -17,6 +17,7 @@ I was looking to implement the RP2354X family of MCUs into my projects, however,
 
 ## PCB
 Gerber available at `pcb/RP2354Bv1e1.zip`.  
+.EPRO (EasyEDA Pro) file available at `pcb/rp2354bv1e1.epro`.
 Default JLC options are fine. If you are assembling by hand, I recommend a Stencil of default JLC options.
 
 ## Firmware
